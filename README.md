@@ -38,6 +38,6 @@ This project demonstrates effective use of **data cleaning, visualization, and s
 
 ---
 
-**Author:** Devendra Babu Pesarlanka  
+ 
 **Course:** Statistics and Trends – University of Hertfordshire  
 **Instructor:** Dr. William Cooper  
